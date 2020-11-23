@@ -30,7 +30,8 @@ namespace ui
                 console.writeln("johnelder,jwetzell,nnemanjan00");
                 console.writeln("N0vaPixel,klockee,jamesshao8");
                 console.writeln("ITAxReal,rascafr,mcules");
-                console.writeln("dqs105,strijar");
+                console.writeln("dqs105,strijar,RobertoD91");
+                console.writeln("joyel24");
                 console.writeln("");
                 break;
 
